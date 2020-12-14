@@ -1,0 +1,3 @@
+[submodule "bril-opt/json"]
+	path = bril-opt/json
+	url = https://github.com/nlohmann/json.git
